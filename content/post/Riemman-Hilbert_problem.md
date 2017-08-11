@@ -1,3 +1,17 @@
+---
+title: Riemann-Hilbert Problem Introduction
+author: Fudong Wang
+date: '2017-08-11'
+categories:
+  - Example
+  - Hugo
+tags:
+  - Markdown
+  - MathJax
+---
+
+
+
 Introduction
 ============
 
@@ -86,7 +100,7 @@ Application to singular integral equations
 Examples
 ========
 
-Riemann-Hilbert Problem in solving KdV 
+Riemann-Hilbert Problem in solving KdV
 ---------------------------------------
 
 In this section, we consider the Korteweg-de Vries (KdV) equation:
