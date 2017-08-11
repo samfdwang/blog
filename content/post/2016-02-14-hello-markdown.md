@@ -89,5 +89,5 @@ An image (automatically centered when it is appropriate):
 
 ![Happy Elmo](https://slides.yihui.name/gif/happy-elmo.gif)
 
-Looks good?
+
 Very good!
