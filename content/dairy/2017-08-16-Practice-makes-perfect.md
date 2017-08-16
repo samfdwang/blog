@@ -7,9 +7,6 @@ tag:
   - 随笔
   - RHP
 ---
-<audio controls>
-  <source src="https://github.com/samfdwang/blog/blob/master/themes/hugo-xmin-master/music/wcybdl.mp3" type="audio/mp3">
-    </audio>
 ## Background and history
 ## AKNS system
 ## IST associated with KdV equation
