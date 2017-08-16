@@ -8,7 +8,7 @@ tag:
   - RHP
 ---
 <audio controls>
-  <source src="music/wcybdl.mp3" type="audio/mp3">
+  <source src="https://github.com/samfdwang/blog/blob/master/themes/hugo-xmin-master/music/wcybdl.mp3" type="audio/mp3">
     </audio>
 ## Background and history
 ## AKNS system
