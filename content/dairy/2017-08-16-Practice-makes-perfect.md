@@ -2,7 +2,7 @@
 title: "A very short introduction to inverse scattering method"
 date: 2017-08-16T13:05:32-04:00
 draft: false
-tag: 
+tags: 
   - IST
   - 随笔
   - RHP
