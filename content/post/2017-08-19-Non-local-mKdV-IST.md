@@ -1,10 +1,14 @@
 ---
 title: "Applying IST to nonlocal mKdV"
 date: 2017-08-19T19:46:33-04:00
+categories:
+  - IST
+  - Soliton
 tags:
-	- IST
-	- mKdV
-	- soliton
+  - Soliton
+  - NLS
+  - AKNS
+  - IST
 ---
 # Introduction
 The classical nonlinear schrodinger equation(NLS)
@@ -33,6 +37,6 @@ Very recently, Jia-Liang Ji and Zuo-Nong Zhu, presented a nonlocal mKdV equation
 \[
 q_t(x,t)+6q(x,t)q(-x,-t)q_x(x,t)+q_{xxx}(x,t)=0
 \]
-which can be reduced from AKNS system by implementing `$r(x,t)=-q(-x,-t)$`. 
+which can be reduced from AKNS system by implementing `$r(x,t)=-q(-x,-t)$`.
 
 # Apply IST to nonlocal mKdV step by step
