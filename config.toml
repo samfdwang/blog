@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "A minimal Hugo website"
 theme = "hugo-xmin-master"
-googleAnalytics = ""
+googleAnalytics = "UA-80316899-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -29,9 +29,9 @@ footnotereturnlinkcontents = "↩"
     url = "/tags/"
     weight = 4
 [[menu.main]]
-    name = "Subscribe"
+    name = "中文测试"
     url = "/index.xml"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [福东](https://fudong.netlify.com) 2017 | [Github](https://github.com/samfdwang) | "
