@@ -35,8 +35,59 @@ where `$q^*(x,t)$` is the complex conjuation of `$q(x,t)$`.
 
 Very recently, Jia-Liang Ji and Zuo-Nong Zhu, presented a nonlocal mKdV equation:
 `$$
-q_t(x,t)+6q(x,t)q(-x,-t)q_x(x,t)+q_{xxx}(x,t)=0
+\label{nmkdv}
+q_t(x,t)+6q(x,t)q(-x,-t)q_x(x,t)+q_{xxx}(x,t)=0\tag{0}
 $$`
 which can be reduced from AKNS system by implementing `$r(x,t)=-q(-x,-t)$`.
+Next I will show how to apply IST to mKdV step by step and finally get `$N-$`soliton solution.
 
 # Apply IST to nonlocal mKdV step by step
+**Step 1.** Write down the Lax pair or spectral problem.
+
+Let's consider the following spectral problem:
+`$$
+\begin{align}
+\varphi_x(x,t)&=U\varphi(x,t),\tag{1}\label{lax}\\
+\varphi_t(x,t)&=V\varphi(x,t),\tag{2}
+\end{align}
+$$`
+with
+`$$
+U=
+\begin{bmatrix}
+-ik & q(x,t)\\
+r(x,t) & ik\\
+\end{bmatrix},\\
+V=-4ik^3\sigma_3+4k^2Q-2ikV_1+V2,\\
+\sigma_3=
+\begin{bmatrix}
+1 & 0\\
+0 & -1\\
+\end{bmatrix},
+Q=
+\begin{bmatrix}
+0 & q(x,t)\\
+r(x,t) &0\\
+\end{bmatrix}\\
+V_1=(Q^2+Q_x)\sigma_3,\quad\quad V_2=-Q_{xx}+2Q^3+Q_xQ-QQ_x
+$$`
+The compatibility condition which is `$\varphi_{xt}(x,t)=\varphi_{t,x}(x,t)$` leads to
+`$$\label{gmkdv}
+q_t(x,t)+q_{xxx}(x,t)-6q(x,t)r(x,t)q_x(x,t)=0,\\
+r_t(x,t)+r_{xxx}(x,t)-6r(x,t)q(x,t)r_x(x,t)=0.\tag{3}
+$$`
+The nonlocal mKdV equation (\ref{nmkdv}) can be reduced from equation (\ref{gmkdv}) by setting `$$\label{rd} r(x,t)=-q(-x,-t)\tag{4}$$`
+**Step 2.** Set boundary conditions.(standard procedure of IST)
+
+Fix time `$t=0$`, and define `$\phi(x,k)$` and `$\bar{\phi}(x,t)$` as a pair of eigenfunctions (or solutions) of euqaiton (\ref{lax}), which satisfy the following boundary conditions:
+`$$
+\phi(x,k)\sim\begin{bmatrix}1\\0\\\end{bmatrix}e^{-ikx},\bar{\phi}(x,k)\sim\begin{bmatrix}0\\1\\\end{bmatrix}e^{ikx},\quad x\rightarrow -\infty
+$$`
+Similarly, define another pair of solutions of equation (\ref{lax}) satisfying the following boundary conditions:
+`$$
+\psi(x,k)\sim\begin{bmatrix}0\\1\\\end{bmatrix}e^{ikx},\bar{\psi}(x,k)\sim\begin{bmatrix}1\\0\\\end{bmatrix}e^{-ikx},\quad x\rightarrow +\infty
+$$`
+**Step 3.** Scattering data and some symmetry relations.
+
+
+(waiting to be updated.....)
