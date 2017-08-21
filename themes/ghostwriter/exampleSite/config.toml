@@ -1,10 +1,10 @@
-baseurl = "/"
+baseurl = "https://example.com/"
 title = "Ghostwriter example"
 theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "My Name"
 disqusShortname = "XXX"
-googleAnalytics = "UA-80316899-1"
+googleAnalytics = "XXX"
 
 [Author]
     name = "My Name"
