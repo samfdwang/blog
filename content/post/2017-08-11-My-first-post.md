@@ -10,12 +10,5 @@ tags:
   - MathJax
 ---
 
-# Introduction
-testtestestestestestetsetstetstetstetstetstestetsttestetsttetstetsetstetsetstestetsestestetstetstetstetstes
-# MathJax test
-Find the asymptotic expansion of the following Laplace type integral:
-$$
-I(k)=\int_0^5\frac{sin(t)}{t^2}e^{kt^2}dt,\quad k\rightarrow \infty
-$$
-
-[link](\home)
+Hello World!
+(This is a word of magic.~.~)

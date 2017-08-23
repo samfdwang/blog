@@ -13,7 +13,6 @@ tags:
 # Introduction
 The classical nonlinear schrodinger equation(NLS)
 
-<div>$$e^3$$</div>
 
 `$$
 iq_t(x,t)=q_{xx}(x,t)\pm 2|q(x,t)|^2q(x,t)
