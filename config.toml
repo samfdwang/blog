@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Solitons"
 theme = "hugo-xmin"
 googleAnalytics = "UA-80316899-1"
-disqusShortname = "fudongmathblog"
+disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -35,6 +35,12 @@ footnotereturnlinkcontents = "↩"
 #[[menu.main]]
   #  name = "Subscribe"
     #url = "/index.xml"
+    
+[staticman]
+  endpoint = "https://api.staticman.net/v2/entry/"
+  username = "yourgithubusername"
+  repository = "reponame"
+  branch = "master"
 
 [params]
     description = "A website built through Hugo and blogdown."
