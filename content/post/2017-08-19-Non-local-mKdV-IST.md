@@ -91,5 +91,21 @@ Similarly, define another pair of solutions of equation (\ref{lax}) satisfying t
 $$`
 **Step 3.** Scattering data and some symmetry relations.
 
+Since `$\{\phi,\bar{\phi}\}$` and `$\{\psi,\bar{\psi}\}$` are linear dependent, we set
+`$$
+\begin{align}
+\phi(x,k)=a(k)\bar{\psi}+b(k)\psi\\
+\bar{\phi(x,k)}=\bar{a}(k)\psi+\bar{b}(k)\bar{\psi}
+\end{align}
+$$`
+here `$a(k),b(k),\bar{a}(k),\bar{b}(k)$` are scalars, so we can solve them and will obtain and be expressed by Wronskian
+`$$
+\begin{align}
+a(k)=W[\phi,\psi],b(k)=W[\psi,\bar{\phi}]\\
+\bar{a}(k)=W[\bar{\psi},\bar{\phi}],\bar{b}(k)=W[\bar{\phi},\psi]
+\end{align}
+$$`
+
+Next we need to analysis the region where the solutions are analytic.
 
 (waiting to be updated.....)
