@@ -246,16 +246,6 @@
     
     <url>
     
-      <loc>https://fudong.netlify.com/categories/hugo/</loc>
-      <lastmod>2017-08-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fudong.netlify.com/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -266,8 +256,8 @@
     
     <url>
     
-      <loc>https://fudong.netlify.com/categories/inequality/</loc>
-      <lastmod>2017-09-18T14:46:01-04:00</lastmod>
+      <loc>https://fudong.netlify.com/categories/hugo/</loc>
+      <lastmod>2017-08-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -286,8 +276,8 @@
     
     <url>
     
-      <loc>https://fudong.netlify.com/categories/ist/</loc>
-      <lastmod>2017-08-19T19:46:33-04:00</lastmod>
+      <loc>https://fudong.netlify.com/categories/inequality/</loc>
+      <lastmod>2017-09-18T14:46:01-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -297,6 +287,16 @@
     <url>
     
       <loc>https://fudong.netlify.com/tags/ist/</loc>
+      <lastmod>2017-08-19T19:46:33-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fudong.netlify.com/categories/ist/</loc>
       <lastmod>2017-08-19T19:46:33-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -366,7 +366,7 @@
     
     <url>
     
-      <loc>https://fudong.netlify.com/categories/soliton/</loc>
+      <loc>https://fudong.netlify.com/tags/soliton/</loc>
       <lastmod>2017-08-19T19:46:33-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -376,7 +376,7 @@
     
     <url>
     
-      <loc>https://fudong.netlify.com/tags/soliton/</loc>
+      <loc>https://fudong.netlify.com/categories/soliton/</loc>
       <lastmod>2017-08-19T19:46:33-04:00</lastmod>
       <priority>0</priority>
     </url>

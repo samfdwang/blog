@@ -6,7 +6,7 @@ enableEmoji = true
 math = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 #deploy to github
-publishDir = "docs"
+#publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
