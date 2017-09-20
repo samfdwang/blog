@@ -3,7 +3,10 @@ title = "Academic"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
+math = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+#deploy to github
+publishDir = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
