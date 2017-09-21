@@ -8,21 +8,12 @@ categories:
 tags:
   - Markdown
   - MathJax
+math : true
 ---
 
 
 
-Introduction
-============
-
-Plemelj Formula
-===============
-
-Cauchy Type Integral
-====================
-
-Scalar Riemann-Hilbert Problem
-==============================
+{{% toc %}}
 
 Fundamental Knowledge
 ---------------------
