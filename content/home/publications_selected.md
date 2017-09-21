@@ -7,7 +7,7 @@ date = 2016-04-20
 draft = false
 
 title = "Selected Publications"
-subtitle = ""
+subtitle = "No Publications Yet"
 widget = "publications_selected"
 
 # Order that this section will appear in.
@@ -20,4 +20,3 @@ weight = 10
 list_format = 2
 
 +++
-
