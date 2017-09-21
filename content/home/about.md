@@ -32,6 +32,8 @@ weight = 1
 +++
 
 # Biography
-Hi, Guys, Welcome! My name is Fudong Wang, obviously from the name, I am a Chinese. From Zhejiang of China to Tampa of Florida, I am pursing the Ph.D degree constraining on **Applied Mathematics** at [University of South Florida](http://www.usf.edu). Hopefully, I will graduate at 2019. Supervised by [Dr.Ma](http://shell.cas.usf.edu/~wma3/), I will continue my research mainly focus on **soliton solutions of nonlinear partial differential equations**. Recently, our group which is leaded by [Dr.Ma](http://shell.cas.usf.edu/~wma3/) is studying applying Riemann-Hilbert Problem to represent soliton solutions and furthermore obtain the long time asymptotic behavior of solutions provided some special initial and boundary conditions.
+Who am I? Fudong Wang, Male, not yet Ph.D of Mathematics, potential programmer(a joke?!). Alright, seriously, honestly, I am a 3rd year PhD student at [Department of Mathematics and Statistics](http://math.usf.edu), [USF](http://www.usf.edu). My research is about `soliton solution` of **nonlinear partial differential equations**, including `integrable system theory`, `inverse scattering transform`, `Riemann-Hilbert Problem` and `asymptotic analysis`. Besides, I like traveling (what? who doesn't), playing all kinds balls(table tennis, tennis, etc), watching movies and TV shows (I am a big fan of Game of Thrones), and listening Hip-Hop(J.Cole, Jazz-Rap).
 
-As for this site, I will write everything that I would like to share to the whole world, including mathematics, movies, music etc. 
+{{% alert note %}}
+Life is too short, **DO MATH**!
+{{% /alert %}}

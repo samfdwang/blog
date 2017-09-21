@@ -30,7 +30,7 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "fudong@mail.usf.edu"
   address = "Department of Mathematics & Statistics, University of South Florida,4202 E Fowler Ave, CMC342,Tampa, FL 33620-5700 "
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = "All day"
   phone = "8135735311"
   #skype = "echo123"
   #telegram = ""
@@ -165,7 +165,7 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Learning"
   url = "#teaching"
   weight = 5
 
