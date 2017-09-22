@@ -15,13 +15,11 @@ math : true
 
 {{% toc %}}
 
-Fundamental Knowledge
----------------------
-
+## Fundamental Knowledge
+w
 `$w=u(x,y)+iv(x,y)$` maps point in `$z-plane$` to `$w-plane$`
 
-Closed contour case
--------------------
+## Closed contour case
 
 Given a closed contour `$C$` and a function `$g(t)\neq 0$` defined on
 `$C$`,which satisfies Hölder condition, find a sectionally analytic

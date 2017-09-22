@@ -13,6 +13,7 @@ suppose `$x\in \mathbb{R}^n$` and `$\sum_{i=1}^nx_i=0$`, show that
 \text{max} x_j>\frac{\|x\|_2}{n}
 $$`
 My proof is as following.
+<!--more-->
 After reordering and relabeling the `$x_i$`, we can finally have:
 
 `$$x_1+\cdots+x_k=x_{k+1}+\cdots+x_n$$`
