@@ -28,7 +28,7 @@ Let's consider the model equation:$Y''(x,\lambda)+\lambda^2Y(x,\lambda)=V(x)Y(x,
 You may find this kind of equation in Lax pair of the nonlinear differential equations. In this note, we are going to transfer this equation to second kind Volterra integral equation, so that we can use the method of successive approximations to find the solution and moreover analysis the analyticity with respect to parameter $\lambda$. Basically, what I am doing here is rephrasing the proof in Marchenko's book *The Inverse Problem of Scattering Theory*,theorem 1.2.1.
 
 **Theorem 1** *If for some $1>\epsilon\geq 0$ ,*
-\[\int_{0}x^{1-\epsilon}|V(x)|dx<\infty\]
+`\[\int_{0}x^{1-\epsilon}|V(x)|dx<\infty\]`
 *then our model eqaution has a fundamental system of solutions $G(x,\lambda)$ and $H(x,\lambda)$ for each fixed value of $\lambda$,satisfying the asymptotic relation:*
 \[\begin{aligned}
 \begin{aligned}
@@ -41,7 +41,7 @@ H(x,\lambda)&=I+o(x^\epsilon),&H'(x,\lambda)&=o(x^{-1+\epsilon}).
 
 Now I will summarize the proof in following steps:
 ## Steps of the proof
-1. [Find the corresponding volterra integral equation](#Find the corresponding volterra integral equation)
+1. [Find the corresponding volterra integral equation](#Find-the corresponding-volterra-integral-equation)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
