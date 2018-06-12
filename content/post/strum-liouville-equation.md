@@ -19,7 +19,7 @@ caption = ""
 Usually there are two types of Volterra integral eqaution named as first kind and second kind.(Here we consider the linear Volterra integral equation only) In what follows,`$x(t)$`is the function to be solved.
 + *First kind Volterra integral equation*
 `\[f(x)=\int_{a}^t K(t,s)x(t)dt\]`
-where `$K(t,s)$' is called *kernel*.
+where `$K(t,s)$` is called *kernel*.
 + *Second kind Volterra integral equation*
 `\[x(t)=f(t)+\int_{a}^tK(t,s)x(s)ds\]`
 
@@ -29,7 +29,7 @@ You may find this kind of equation in Lax pair of the nonlinear differential equ
 
 **Theorem 1** *If for some`$1>\epsilon\geq 0$`,*
 `\[\int_{0}x^{1-\epsilon}|V(x)|dx<\infty\]`
-*then our model eqaution has a fundamental system of solutions`$G(x,\lambda)$`and`$H(x,\lambda)$`for each fixed value of`$\lambda$,satisfying the asymptotic relation:*
+*then our model eqaution has a fundamental system of solutions`$G(x,\lambda)$`and`$H(x,\lambda)$`for each fixed value of`$\lambda$`,satisfying the asymptotic relation:*
 `\[\begin{aligned}
 \begin{aligned}
         G(x,\lambda)&=x[I+o(x^\epsilon)],&G'(x,\lambda)&=I+o(x^\epsilon);\\
@@ -37,7 +37,7 @@ H(x,\lambda)&=I+o(x^\epsilon),&H'(x,\lambda)&=o(x^{-1+\epsilon}).
        \end{aligned}
  \qquad (x\rightarrow 0)
 \end{aligned}\]`
-*Moreover for each fixed value of`$x\geq 0$,$G$`is an entire function w.r.t.`$\lambda$*
+*Moreover for each fixed value of`$x\geq 0$`,`$G$`is an entire function w.r.t.`$\lambda$`*
 
 Now I will summarize the proof in following steps:
 ## Steps of the proof
