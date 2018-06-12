@@ -1,20 +1,12 @@
-+++
-title = "Harmonic functions"
-date = 2018-06-03T10:19:50-05:00
-draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["notes"]
-categories = ["math_notes"]
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
-
-+++
+---
+title: "Harmonic functions"
+date: 2018-06-06T14:53:02-04:00
+math : true
+tags:
+  - Harmonic-Function
+categories:
+    - Inequality
+---
 
 # Note 1.
 ## Harmonic funtions
